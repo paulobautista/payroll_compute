@@ -13,11 +13,14 @@ def main():
     df = pd.read_csv('sample_route_data.csv')
 
     df['result'] = df.apply(get_scheme_rate,axis=1)
+    df['incentive_pay'] = df.apply(lambda row: row.result[0] * row.parcels_delivered,axis=1)
     df['delivery_pay']  = [x[0] for x in df.result]
 
-    df.groupby(['rider_id','rider_name','hub_id','hub_name','driver_type']).agg({'parcels_delivered':'sum','route_date':'nunique','delivery_pay':'sum'}).reset_index().to_csv('rider_level.csv',index=False)
+    df.groupby(['rider_id','rider_name','hub_id','hub_name','driver_type']).agg({'parcels_delivered':'sum','route_date':'nunique','delivery_pay':'sum','incentive_pay':'sum'}).reset_index().to_csv('rider_level.csv',index=False)
     df.groupby(['hub_id','hub_name']).agg({'parcels_delivered':'sum','route_date':'nunique','delivery_pay':'sum'}).reset_index().to_csv('hub_level.csv',index=False)
 
+    print("results generated!")
+    
 if __name__ == '__main__':
     main()
 
