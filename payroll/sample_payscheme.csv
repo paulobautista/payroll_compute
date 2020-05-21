@@ -1,0 +1,5 @@
+hub_id,hub_name,zone_id,zone_name,driver_type,min_parcel,max_parcel,daily_min_wage,per_parcel_rate,fixed_component,fixed_incentive_component
+1,MAKATI-TGG,135,A20 - Makati 1,Rider - Monthly Pay,0,150,537,0,0,0
+1,MAKATI-TGG,135,A20 - Makati 1,Rider - Per Parcel Rate,0,10,537,2,200,0
+1,MAKATI-TGG,135,A20 - Makati 2,Rider - Per Parcel Rate,11,10,537,5,200,0
+1,MAKATI-TGG,135,A20 - Makati 3,Rider - Per Parcel Rate,30,10,537,10,200,0

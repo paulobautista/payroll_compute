@@ -1,54 +1,54 @@
-rider_id,rider_name,hub_id,hub_name,driver_type,parcels_delivered,route_date,delivery_pay,incentive_pay
-1001333,M6 - Dennis,1,MAKATI 1-TGG,Rider - Per Parcel Rate,160,7,6434.0,162459.0
-1001802,M6 - MarkAnthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,313,15,13081.0,296893.0
-1002066,M6 - Sandy,1,MAKATI 1-TGG,Rider - Per Parcel Rate,406,14,13658.0,415282.0
-1010738,M6 - Nestor,1,MAKATI 1-TGG,Rider - Per Parcel Rate,12,1,797.0,9564.0
-1026380,M6 - Joemel,1,MAKATI 1-TGG,Rider - Per Parcel Rate,35,2,1649.0,29060.0
-1040392,M6 - Kenneth Alfred,1,MAKATI 1-TGG,Rider - Per Parcel Rate,299,11,10479.0,303495.0
-1040748,M6 - Eric,1,MAKATI 1-TGG,Rider - Per Parcel Rate,318,11,10981.0,340610.0
-1051419,M10 - Eugine,1,MAKATI 1-TGG,Rider - Per Parcel Rate,30,2,1597.0,24477.0
-1059384,M6 - Luis Anthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,7,1,751.0,5257.0
-1059404,M6 - Angelito,1,MAKATI 1-TGG,Rider - Per Parcel Rate,118,8,6402.0,97948.0
-1061824,M6 - CarlSherwin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,10,1,757.0,7570.0
-1063918,M6 - Michael John,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,2,1561.0,18775.0
-1063988,M6 - Lambert,1,MAKATI 1-TGG,Rider - Per Parcel Rate,10,1,757.0,7570.0
-1064286,M13- Ervin Jason,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,1,1127.0,43953.0
-1064288,M13- Clayson,1,MAKATI 1-TGG,Rider - Per Parcel Rate,43,1,1167.0,50181.0
-1067409,M6 - ChristianKyle,1,MAKATI 1-TGG,Rider - Per Parcel Rate,38,1,1117.0,42446.0
-1067412,M6 - Alexander,1,MAKATI 1-TGG,Rider - Per Parcel Rate,72,6,4740.0,59212.0
-1067736,M6 - MariaJuvella,1,MAKATI 1-TGG,Rider - Per Parcel Rate,181,9,7856.0,171130.0
-1075555,M9 - John David,1,MAKATI 1-TGG,Rider - Per Parcel Rate,23,1,852.0,19596.0
-1077835,G5 - Joseph BobbyLito,1,MAKATI 1-TGG,Sacked,2,2,0.0,0.0
-1082416,M13- Armando Go,1,MAKATI 1-TGG,Rider - Per Parcel Rate,46,2,1704.0,39202.0
-1083334,M10 - Jefferson G.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,2,1561.0,18775.0
-1090240,M13- WILMAR,1,MAKATI 1-TGG,Rider - Per Parcel Rate,17,1,822.0,13974.0
-1091317,M10 - Michelle,1,MAKATI 1-TGG,Rider - Per Parcel Rate,20,1,837.0,16740.0
-1094759,M6 - Patrick Efgh,1,MAKATI 1-TGG,Rider - Per Parcel Rate,14,1,807.0,11298.0
-1111856,M10 - Don Gerald,1,MAKATI 1-TGG,Rider - Per Parcel Rate,36,2,1654.0,29862.0
-1117490,M6 - John Brian,1,MAKATI 1-TGG,Rider - Per Parcel Rate,7,1,751.0,5257.0
-1121267,M10 - Jhason,1,MAKATI 1-TGG,Rider - Per Parcel Rate,35,2,1649.0,28880.0
-1128182,M6 - Francis Emiko,1,MAKATI 1-TGG,Rider - Per Parcel Rate,206,8,7640.0,214510.0
-1130063,M6 - Eduard,1,MAKATI 1-TGG,Rider - Per Parcel Rate,28,1,877.0,24556.0
-1131515,M6 - Alfredo,1,MAKATI 1-TGG,Rider - Per Parcel Rate,146,7,6370.0,148245.0
-1137820,M6 - Marvin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,122,6,5360.0,119866.0
-1138792,M6 - Ronald Yuji,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,1,857.0,20568.0
-1145419,M9 - Jay,1,MAKATI 1-TGG,Rider - Per Parcel Rate,73,2,2089.0,81446.0
-1145437,M9 - Santiago,1,MAKATI 1-TGG,Rider - Per Parcel Rate,45,2,1854.0,43755.0
-1145932,M10 - Daryl V.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,28,2,1614.0,22636.0
-1146538,M6 - Anthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,25,2,1572.0,19867.0
-1147596,M6 - Joemar,1,MAKATI 1-TGG,Rider - Per Parcel Rate,8,1,753.0,6024.0
-1156865,M6-Thomas Jester,1,MAKATI 1-TGG,Rider - Per Parcel Rate,189,11,9133.0,168039.0
-1161875,M6-Harvee,1,MAKATI 1-TGG,Rider - Per Parcel Rate,25,3,2261.0,18875.0
-1162343,M6-Marvin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,236,10,9217.0,232513.0
-1176618,M10 - Rio Jhon P.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,17,1,822.0,13974.0
-1180675,M6 - Credence,1,MAKATI 1-TGG,Rider - Per Parcel Rate,108,8,6367.0,89165.0
-1182687,M6 - Seasonal John Kenneth,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,4,3125.0,31564.0
-1182857,M6 - Raphael,1,MAKATI 1-TGG,Rider - Per Parcel Rate,21,2,1564.0,16807.0
-1185503,M6-Van Jarvis,1,MAKATI 1-TGG,Rider - Per Parcel Rate,26,2,1604.0,20852.0
-1186757,M6-Edward,1,MAKATI 1-TGG,Rider - Per Parcel Rate,177,9,7704.0,161744.0
-1190183,C34-Junrey,1,MAKATI 1-TGG,Rider - Seasonal,14,1,0.0,0.0
-1196847,M6 - Harry,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,2,1669.0,32568.0
-1198173,F8-Jan Robby,1,MAKATI 1-TGG,Rider - Seasonal,6,1,0.0,0.0
-1199079,M6 - Seasonal August,1,MAKATI 1-TGG,Rider - Per Parcel Rate,107,7,5793.0,96851.0
-1202221,M6 - Seasonal Bren Michael,1,MAKATI 1-TGG,Rider - Per Parcel Rate,129,8,6526.0,109159.0
-1211755,A14 - Demosthenes,1,MAKATI 1-TGG,Rider - Seasonal,0,2,0.0,0.0
+rider_id,rider_name,hub_id,hub_name,driver_type,parcels_delivered,route_date,delivery_pay
+1001333,M6 - Dennis,1,MAKATI 1-TGG,Rider - Per Parcel Rate,160,7,6434.0
+1001802,M6 - MarkAnthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,313,15,13081.0
+1002066,M6 - Sandy,1,MAKATI 1-TGG,Rider - Per Parcel Rate,406,14,13658.0
+1010738,M6 - Nestor,1,MAKATI 1-TGG,Rider - Per Parcel Rate,12,1,797.0
+1026380,M6 - Joemel,1,MAKATI 1-TGG,Rider - Per Parcel Rate,35,2,1649.0
+1040392,M6 - Kenneth Alfred,1,MAKATI 1-TGG,Rider - Per Parcel Rate,299,11,10479.0
+1040748,M6 - Eric,1,MAKATI 1-TGG,Rider - Per Parcel Rate,318,11,10981.0
+1051419,M10 - Eugine,1,MAKATI 1-TGG,Rider - Per Parcel Rate,30,2,1597.0
+1059384,M6 - Luis Anthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,7,1,751.0
+1059404,M6 - Angelito,1,MAKATI 1-TGG,Rider - Per Parcel Rate,118,8,6402.0
+1061824,M6 - CarlSherwin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,10,1,757.0
+1063918,M6 - Michael John,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,2,1561.0
+1063988,M6 - Lambert,1,MAKATI 1-TGG,Rider - Per Parcel Rate,10,1,757.0
+1064286,M13- Ervin Jason,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,1,1127.0
+1064288,M13- Clayson,1,MAKATI 1-TGG,Rider - Per Parcel Rate,43,1,1167.0
+1067409,M6 - ChristianKyle,1,MAKATI 1-TGG,Rider - Per Parcel Rate,38,1,1117.0
+1067412,M6 - Alexander,1,MAKATI 1-TGG,Rider - Per Parcel Rate,72,6,4740.0
+1067736,M6 - MariaJuvella,1,MAKATI 1-TGG,Rider - Per Parcel Rate,181,9,7856.0
+1075555,M9 - John David,1,MAKATI 1-TGG,Rider - Per Parcel Rate,23,1,852.0
+1077835,G5 - Joseph BobbyLito,1,MAKATI 1-TGG,Sacked,2,2,0.0
+1082416,M13- Armando Go,1,MAKATI 1-TGG,Rider - Per Parcel Rate,46,2,1704.0
+1083334,M10 - Jefferson G.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,2,1561.0
+1090240,M13- WILMAR,1,MAKATI 1-TGG,Rider - Per Parcel Rate,17,1,822.0
+1091317,M10 - Michelle,1,MAKATI 1-TGG,Rider - Per Parcel Rate,20,1,837.0
+1094759,M6 - Patrick Efgh,1,MAKATI 1-TGG,Rider - Per Parcel Rate,14,1,807.0
+1111856,M10 - Don Gerald,1,MAKATI 1-TGG,Rider - Per Parcel Rate,36,2,1654.0
+1117490,M6 - John Brian,1,MAKATI 1-TGG,Rider - Per Parcel Rate,7,1,751.0
+1121267,M10 - Jhason,1,MAKATI 1-TGG,Rider - Per Parcel Rate,35,2,1649.0
+1128182,M6 - Francis Emiko,1,MAKATI 1-TGG,Rider - Per Parcel Rate,206,8,7640.0
+1130063,M6 - Eduard,1,MAKATI 1-TGG,Rider - Per Parcel Rate,28,1,877.0
+1131515,M6 - Alfredo,1,MAKATI 1-TGG,Rider - Per Parcel Rate,146,7,6370.0
+1137820,M6 - Marvin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,122,6,5360.0
+1138792,M6 - Ronald Yuji,1,MAKATI 1-TGG,Rider - Per Parcel Rate,24,1,857.0
+1145419,M9 - Jay,1,MAKATI 1-TGG,Rider - Per Parcel Rate,73,2,2089.0
+1145437,M9 - Santiago,1,MAKATI 1-TGG,Rider - Per Parcel Rate,45,2,1854.0
+1145932,M10 - Daryl V.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,28,2,1614.0
+1146538,M6 - Anthony,1,MAKATI 1-TGG,Rider - Per Parcel Rate,25,2,1572.0
+1147596,M6 - Joemar,1,MAKATI 1-TGG,Rider - Per Parcel Rate,8,1,753.0
+1156865,M6-Thomas Jester,1,MAKATI 1-TGG,Rider - Per Parcel Rate,189,11,9133.0
+1161875,M6-Harvee,1,MAKATI 1-TGG,Rider - Per Parcel Rate,25,3,2261.0
+1162343,M6-Marvin,1,MAKATI 1-TGG,Rider - Per Parcel Rate,236,10,9217.0
+1176618,M10 - Rio Jhon P.,1,MAKATI 1-TGG,Rider - Per Parcel Rate,17,1,822.0
+1180675,M6 - Credence,1,MAKATI 1-TGG,Rider - Per Parcel Rate,108,8,6367.0
+1182687,M6 - Seasonal John Kenneth,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,4,3125.0
+1182857,M6 - Raphael,1,MAKATI 1-TGG,Rider - Per Parcel Rate,21,2,1564.0
+1185503,M6-Van Jarvis,1,MAKATI 1-TGG,Rider - Per Parcel Rate,26,2,1604.0
+1186757,M6-Edward,1,MAKATI 1-TGG,Rider - Per Parcel Rate,177,9,7704.0
+1190183,C34-Junrey,1,MAKATI 1-TGG,Rider - Seasonal,14,1,0.0
+1196847,M6 - Harry,1,MAKATI 1-TGG,Rider - Per Parcel Rate,39,2,1669.0
+1198173,F8-Jan Robby,1,MAKATI 1-TGG,Rider - Seasonal,6,1,0.0
+1199079,M6 - Seasonal August,1,MAKATI 1-TGG,Rider - Per Parcel Rate,107,7,5793.0
+1202221,M6 - Seasonal Bren Michael,1,MAKATI 1-TGG,Rider - Per Parcel Rate,129,8,6526.0
+1211755,A14 - Demosthenes,1,MAKATI 1-TGG,Rider - Seasonal,0,2,0.0
